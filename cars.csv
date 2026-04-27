@@ -1,0 +1,9 @@
+car_id;brand_id;model_name;horsepower
+1;1;Corolla;122
+2;1;Camry;181
+3;2;M5;600
+4;2;X5;340
+5;3;Vesta;106
+6;3;Granta;90
+7;4;Focus;150
+...и так далее до 12 записей
