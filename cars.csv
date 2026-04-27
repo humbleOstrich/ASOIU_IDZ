@@ -1,9 +1,14 @@
 car_id;brand_id;model_name;horsepower
 1;1;Corolla;122
 2;1;Camry;181
-3;2;M5;600
-4;2;X5;340
-5;3;Vesta;106
-6;3;Granta;90
-7;4;Focus;150
-...и так далее до 12 записей
+3;1;Land Cruiser;249
+4;2;M5;600
+5;2;X5;340
+6;2;320i;184
+7;3;Vesta;106
+8;3;Granta;90
+9;3;Niva Travel;80
+10;4;Focus;150
+11;4;Explorer;249
+12;5;A4;190
+13;5;Q7;249
